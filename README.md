@@ -3,6 +3,9 @@
 #### 国内一线互联网公司内部面试题库
 ![国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 
+#### Android校招面试指南
+![android_interview](https://github.com/LRH1993/android_interview)
+
 #### 这个库主要是一些常用的Android开发的一些技能点汇集，有填坑总结，有面试总结，有冷门知识点总结等，会不定期更新，欢迎大家投稿和提意见。
 ![常用的Android开发的一些技能点以及BAT公司面试题汇集](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
 
