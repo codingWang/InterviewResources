@@ -3,6 +3,9 @@
 #### 国内一线互联网公司内部面试题库
 ![AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)
 
+#### Android 面试指南
+![android-interview-questions-cn](https://github.com/stormzhang/android-interview-questions-cn)
+
 #### Android开发面试大礼包
 ![AndroidInterviews](https://github.com/hujiaweibujidao/AndroidInterviews)
 
