@@ -23,3 +23,6 @@
 
 #### 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊
 ![programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
+
+#### 关于面试/谈Offer/程序员职场生涯等
+![awesome-offer](https://github.com/lietoumai/awesome-offer)
